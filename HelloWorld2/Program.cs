@@ -21,7 +21,7 @@ smallBit = 17;
 Console.WriteLine(smallBit);
 var name = "Hey Buddy";
 var number = 1;
-Console.WriteLine(name is String);
+Console.WriteLine(name is String); // checking if type inference works should be true.
 //Console.WriteLine(number is int);
 
 
