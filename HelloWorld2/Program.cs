@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Biggie is the best cat in the world");
-
-string name = "Jason";
+String name;
+Console.WriteLine("What is your name?");
+name = Console.ReadLine();
 Console.WriteLine("Hi " + name);
+
 
