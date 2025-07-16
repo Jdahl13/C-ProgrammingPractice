@@ -15,7 +15,7 @@ string b = Console.ReadLine(); // stores input of string b
 string c = "of Doom"; // stores input of string c
 string d = "3000"; /* stores input of string d 
 Console.WriteLine("The " + b + " " + a + " " + c + " " + d + "!");
-*/
+
 byte smallBit = 34;
 smallBit = 17;
 Console.WriteLine(smallBit);
@@ -23,6 +23,15 @@ var name = "Hey Buddy";
 var number = 1;
 Console.WriteLine(name is String); // checking if type inference works should be true.
 //Console.WriteLine(number is int);
+*/
+
+Console.WriteLine("Give me a number");
+string inputNumber = Console.ReadLine();
+int number = Convert.ToInt32(inputNumber); //testing out how to convert input to int
+Console.WriteLine(number);
+Console.WriteLine(number is Int32); //proving the string was converted to an int
+
+
 
 
 
