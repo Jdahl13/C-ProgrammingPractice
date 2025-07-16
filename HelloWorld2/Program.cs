@@ -31,6 +31,10 @@ int number = Convert.ToInt32(inputNumber); //testing out how to convert input to
 Console.WriteLine(number);
 Console.WriteLine(number is Int32); //proving the string was converted to an int
 
+int number2 = int.Parse("1000");
+Console.WriteLine(number2 is Int32); // other method of changing string to something
+
+
 
 
 
