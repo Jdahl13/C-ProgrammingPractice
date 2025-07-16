@@ -12,3 +12,4 @@
 /Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.pdb
 /Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.genruntimeconfig.cache
 /Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/ref/HelloWorld2.dll
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.sourcelink.json

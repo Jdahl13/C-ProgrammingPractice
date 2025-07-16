@@ -19,6 +19,11 @@ Console.WriteLine("The " + b + " " + a + " " + c + " " + d + "!");
 byte smallBit = 34;
 smallBit = 17;
 Console.WriteLine(smallBit);
+var name = "Hey Buddy";
+var number = 1;
+Console.WriteLine(name is String);
+//Console.WriteLine(number is int);
+
 
 
 
