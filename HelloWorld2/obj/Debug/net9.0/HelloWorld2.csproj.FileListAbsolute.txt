@@ -1,0 +1,15 @@
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/bin/Debug/net9.0/HelloWorld2
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/bin/Debug/net9.0/HelloWorld2.deps.json
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/bin/Debug/net9.0/HelloWorld2.runtimeconfig.json
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/bin/Debug/net9.0/HelloWorld2.dll
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/bin/Debug/net9.0/HelloWorld2.pdb
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.AssemblyInfoInputs.cache
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.AssemblyInfo.cs
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.csproj.CoreCompileInputs.cache
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.sourcelink.json
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.dll
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/refint/HelloWorld2.dll
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.pdb
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/HelloWorld2.genruntimeconfig.cache
+/Users/jasondahl/Desktop/C#_Programming/C-ProgrammingPractice/HelloWorld2/obj/Debug/net9.0/ref/HelloWorld2.dll
