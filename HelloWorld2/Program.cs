@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-String name;
-Console.WriteLine("What is your name?");
+
+Console.WriteLine("Bread is ready");
+Console.WriteLine("Who is the bread for?");
+string name;
 name = Console.ReadLine();
-Console.WriteLine("Hi " + name);
+Console.WriteLine("Noted: " + name + " got bread");
+
 
 
