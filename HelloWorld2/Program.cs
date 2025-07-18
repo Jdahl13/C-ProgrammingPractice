@@ -23,7 +23,7 @@ var name = "Hey Buddy";
 var number = 1;
 Console.WriteLine(name is String); // checking if type inference works should be true.
 //Console.WriteLine(number is int);
-*/
+
 
 Console.WriteLine("Give me a number");
 string inputNumber = Console.ReadLine();
@@ -33,6 +33,20 @@ Console.WriteLine(number is Int32); //proving the string was converted to an int
 
 int number2 = int.Parse("1000");
 Console.WriteLine(number2 is Int32); // other method of changing string to something
+*/
+//Chapter 7 Math***********************************************
+//4 Sisters and Duckbear challenge
+Console.WriteLine("How many chocolate eggs do you want to split up");
+string numOfEggs = Console.ReadLine();
+//Divide among 4 sisters, remainder goes to duckbear
+int sisters = 0;
+int duckBear = 0;
+int eggs = Convert.ToInt32(numOfEggs); // take string input and convert to int to perform math on
+sisters += eggs / 4; // how many eggs the sisters get
+duckBear = eggs % 4; // how man eggs the Duckbear gets (Remainder from sisters division)
+Console.WriteLine("The Sisters each get " + sisters + " eggs and Duckbear gets " + duckBear + " eggs");
+
+
 
 
 
